@@ -1,0 +1,2 @@
+this is from a zip file.
+这是zip里的内容。
